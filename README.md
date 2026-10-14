@@ -2,7 +2,7 @@
 
 > **Diese kostenlose Lite-Edition ist auf 1 Server und grundlegende Module beschränkt.**
 > Für unbegrenzte Server, alle Features und Premium-Support:
-> **[👉 saarlandbot.de](https://saarlandbot.de)**
+> **[👉 lythea.de](https://lythea.de)**
 
 Ein modularer Discord-Bot mit Web-Dashboard — einfach per Docker Compose installierbar.
 
