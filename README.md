@@ -151,7 +151,7 @@ server {
 ## ❓ Support & Vollversion
 
 - **Bug melden:** [GitHub Issues](https://github.com/SaarlandLetsPlay/saarbot-lite-install/issues)
-- **Vollversion mit allen Features:** [saarlandbot.de](https://saarlandbot.de)
+- **Vollversion mit allen Features:** [lythea.de](https://lythea.de)
 
 ---
 
@@ -160,4 +160,4 @@ server {
 Diese Software wird als Lite-Edition zur freien, nicht-kommerziellen Nutzung bereitgestellt.
 Reverse-Engineering, Dekompilierung und die Verbreitung modifizierter Versionen sind nicht gestattet.
 
-© SaarlandBot – [saarlandbot.de](https://saarlandbot.de)
+© SaarlandBot – [lythea.de](https://lythea.de)
